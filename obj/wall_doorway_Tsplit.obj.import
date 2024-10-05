@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2qwq04wylbc0"
+path="res://.godot/imported/wall_doorway_Tsplit.obj-3ae34718c370749a9c4772ddba37466d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall_doorway_Tsplit.obj-3ae34718c370749a9c4772ddba37466d.mesh"]
+
+source_file="res://obj/wall_doorway_Tsplit.obj"
+dest_files=["res://.godot/imported/wall_doorway_Tsplit.obj-3ae34718c370749a9c4772ddba37466d.mesh", "res://.godot/imported/wall_doorway_Tsplit.obj-3ae34718c370749a9c4772ddba37466d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

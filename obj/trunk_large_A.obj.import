@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dwouqvrumlbmk"
+path="res://.godot/imported/trunk_large_A.obj-13e2ad40d8e697e43b3423dfaf219def.mesh"
+
+[deps]
+
+files=["res://.godot/imported/trunk_large_A.obj-13e2ad40d8e697e43b3423dfaf219def.mesh"]
+
+source_file="res://obj/trunk_large_A.obj"
+dest_files=["res://.godot/imported/trunk_large_A.obj-13e2ad40d8e697e43b3423dfaf219def.mesh", "res://.godot/imported/trunk_large_A.obj-13e2ad40d8e697e43b3423dfaf219def.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

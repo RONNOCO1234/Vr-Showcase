@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cwhumkcfmd17b"
+path="res://.godot/imported/keyring.obj-e5ba520d802931d9f8243f8743c05e25.mesh"
+
+[deps]
+
+files=["res://.godot/imported/keyring.obj-e5ba520d802931d9f8243f8743c05e25.mesh"]
+
+source_file="res://obj/keyring.obj"
+dest_files=["res://.godot/imported/keyring.obj-e5ba520d802931d9f8243f8743c05e25.mesh", "res://.godot/imported/keyring.obj-e5ba520d802931d9f8243f8743c05e25.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

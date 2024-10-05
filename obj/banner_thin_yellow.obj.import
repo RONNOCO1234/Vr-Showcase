@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ci3wv7yyv3t61"
+path="res://.godot/imported/banner_thin_yellow.obj-525ed4e5a046309bfa2a2960bbac1f68.mesh"
+
+[deps]
+
+files=["res://.godot/imported/banner_thin_yellow.obj-525ed4e5a046309bfa2a2960bbac1f68.mesh"]
+
+source_file="res://obj/banner_thin_yellow.obj"
+dest_files=["res://.godot/imported/banner_thin_yellow.obj-525ed4e5a046309bfa2a2960bbac1f68.mesh", "res://.godot/imported/banner_thin_yellow.obj-525ed4e5a046309bfa2a2960bbac1f68.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

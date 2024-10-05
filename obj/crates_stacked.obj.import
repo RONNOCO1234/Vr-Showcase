@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bo7vx7phhprtd"
+path="res://.godot/imported/crates_stacked.obj-02f1affa1cf32d6b3b7edf3d2f3ad8e0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/crates_stacked.obj-02f1affa1cf32d6b3b7edf3d2f3ad8e0.mesh"]
+
+source_file="res://obj/crates_stacked.obj"
+dest_files=["res://.godot/imported/crates_stacked.obj-02f1affa1cf32d6b3b7edf3d2f3ad8e0.mesh", "res://.godot/imported/crates_stacked.obj-02f1affa1cf32d6b3b7edf3d2f3ad8e0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dkmonxna1uya8"
+path="res://.godot/imported/trunk_small_B.obj-a4416acb2114b36c6bae5d3276fb73f7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/trunk_small_B.obj-a4416acb2114b36c6bae5d3276fb73f7.mesh"]
+
+source_file="res://obj/trunk_small_B.obj"
+dest_files=["res://.godot/imported/trunk_small_B.obj-a4416acb2114b36c6bae5d3276fb73f7.mesh", "res://.godot/imported/trunk_small_B.obj-a4416acb2114b36c6bae5d3276fb73f7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://batyp1dxpbfk7"
+path="res://.godot/imported/table_medium_tablecloth_decorated_B.obj-cf3bf016b1af759e0ca9a18325f44479.mesh"
+
+[deps]
+
+files=["res://.godot/imported/table_medium_tablecloth_decorated_B.obj-cf3bf016b1af759e0ca9a18325f44479.mesh"]
+
+source_file="res://obj/table_medium_tablecloth_decorated_B.obj"
+dest_files=["res://.godot/imported/table_medium_tablecloth_decorated_B.obj-cf3bf016b1af759e0ca9a18325f44479.mesh", "res://.godot/imported/table_medium_tablecloth_decorated_B.obj-cf3bf016b1af759e0ca9a18325f44479.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

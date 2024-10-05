@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://hfo246dpe5p5"
+path="res://.godot/imported/wall_sloped.obj-733bf37dab8507182643e035a07e31bf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall_sloped.obj-733bf37dab8507182643e035a07e31bf.mesh"]
+
+source_file="res://obj/wall_sloped.obj"
+dest_files=["res://.godot/imported/wall_sloped.obj-733bf37dab8507182643e035a07e31bf.mesh", "res://.godot/imported/wall_sloped.obj-733bf37dab8507182643e035a07e31bf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

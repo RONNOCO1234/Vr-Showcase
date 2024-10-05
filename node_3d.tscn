@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://db0ikuvo1ew6q"]
+
+[ext_resource type="ArrayMesh" uid="uid://dx0qpc7l76i18" path="res://obj/floor_wood_small.obj" id="1_4os06"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="FloorWoodSmall" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.06871, 0, 1.0151)
+mesh = ExtResource("1_4os06")

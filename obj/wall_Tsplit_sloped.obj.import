@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://virtp0ug6dtp"
+path="res://.godot/imported/wall_Tsplit_sloped.obj-c54522ec754a6d8b9f8d794f17d5ad7d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall_Tsplit_sloped.obj-c54522ec754a6d8b9f8d794f17d5ad7d.mesh"]
+
+source_file="res://obj/wall_Tsplit_sloped.obj"
+dest_files=["res://.godot/imported/wall_Tsplit_sloped.obj-c54522ec754a6d8b9f8d794f17d5ad7d.mesh", "res://.godot/imported/wall_Tsplit_sloped.obj-c54522ec754a6d8b9f8d794f17d5ad7d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

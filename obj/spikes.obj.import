@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://clf62vxua8v0v"
+path="res://.godot/imported/spikes.obj-67289db10d1f3e5822dbe36304fe620c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/spikes.obj-67289db10d1f3e5822dbe36304fe620c.mesh"]
+
+source_file="res://obj/spikes.obj"
+dest_files=["res://.godot/imported/spikes.obj-67289db10d1f3e5822dbe36304fe620c.mesh", "res://.godot/imported/spikes.obj-67289db10d1f3e5822dbe36304fe620c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

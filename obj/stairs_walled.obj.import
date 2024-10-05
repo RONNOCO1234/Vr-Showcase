@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://6w2my6ur74q6"
+path="res://.godot/imported/stairs_walled.obj-3d3d320d90aab93daccc606dbfe6b54a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stairs_walled.obj-3d3d320d90aab93daccc606dbfe6b54a.mesh"]
+
+source_file="res://obj/stairs_walled.obj"
+dest_files=["res://.godot/imported/stairs_walled.obj-3d3d320d90aab93daccc606dbfe6b54a.mesh", "res://.godot/imported/stairs_walled.obj-3d3d320d90aab93daccc606dbfe6b54a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

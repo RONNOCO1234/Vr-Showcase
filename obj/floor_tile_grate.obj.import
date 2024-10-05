@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cpmldjayr752t"
+path="res://.godot/imported/floor_tile_grate.obj-48bec189f18dea5705d03b1972f612aa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/floor_tile_grate.obj-48bec189f18dea5705d03b1972f612aa.mesh"]
+
+source_file="res://obj/floor_tile_grate.obj"
+dest_files=["res://.godot/imported/floor_tile_grate.obj-48bec189f18dea5705d03b1972f612aa.mesh", "res://.godot/imported/floor_tile_grate.obj-48bec189f18dea5705d03b1972f612aa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bglj11cgws3ur"
+path="res://.godot/imported/floor_foundation_corner.obj-9f40ae986a103bf4226e7b9ccb4b4d68.mesh"
+
+[deps]
+
+files=["res://.godot/imported/floor_foundation_corner.obj-9f40ae986a103bf4226e7b9ccb4b4d68.mesh"]
+
+source_file="res://obj/floor_foundation_corner.obj"
+dest_files=["res://.godot/imported/floor_foundation_corner.obj-9f40ae986a103bf4226e7b9ccb4b4d68.mesh", "res://.godot/imported/floor_foundation_corner.obj-9f40ae986a103bf4226e7b9ccb4b4d68.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

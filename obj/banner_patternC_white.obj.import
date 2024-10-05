@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://eq5h66fj2nh4"
+path="res://.godot/imported/banner_patternC_white.obj-e24427ebf24108fc4202c47936bc5291.mesh"
+
+[deps]
+
+files=["res://.godot/imported/banner_patternC_white.obj-e24427ebf24108fc4202c47936bc5291.mesh"]
+
+source_file="res://obj/banner_patternC_white.obj"
+dest_files=["res://.godot/imported/banner_patternC_white.obj-e24427ebf24108fc4202c47936bc5291.mesh", "res://.godot/imported/banner_patternC_white.obj-e24427ebf24108fc4202c47936bc5291.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

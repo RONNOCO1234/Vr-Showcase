@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2lnds3dw0llv"
+path="res://.godot/imported/torch_lit.obj-319f7988b55740df8cc0557f8c28aa1a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/torch_lit.obj-319f7988b55740df8cc0557f8c28aa1a.mesh"]
+
+source_file="res://obj/torch_lit.obj"
+dest_files=["res://.godot/imported/torch_lit.obj-319f7988b55740df8cc0557f8c28aa1a.mesh", "res://.godot/imported/torch_lit.obj-319f7988b55740df8cc0557f8c28aa1a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

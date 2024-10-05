@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c2rq2ueedl8ul"
+path="res://.godot/imported/plate_food_B.obj-e6e8971943a7b27666b566cdd5b0c565.mesh"
+
+[deps]
+
+files=["res://.godot/imported/plate_food_B.obj-e6e8971943a7b27666b566cdd5b0c565.mesh"]
+
+source_file="res://obj/plate_food_B.obj"
+dest_files=["res://.godot/imported/plate_food_B.obj-e6e8971943a7b27666b566cdd5b0c565.mesh", "res://.godot/imported/plate_food_B.obj-e6e8971943a7b27666b566cdd5b0c565.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
